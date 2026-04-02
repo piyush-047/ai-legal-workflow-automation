@@ -32,10 +32,22 @@ It provides accurate, multilingual legal guidance based on the Indian Constituti
 ![Architecture](assets/architecture.png)
 
 ---
+## 🧠 Why RAG?
 
-## 📸 Demo Output
+Traditional LLMs may generate incorrect legal information (hallucinations).
+This system uses Retrieval-Augmented Generation (RAG) to fetch real legal context before generating responses, ensuring accuracy and reliability.
 
-![Demo](assets/demo.png)
+---
+## 📸 Multilingual Demo Output
+
+### 🇮🇳 Hindi Output
+![Hindi](assets/hindi_output.png)
+
+### 🇮🇳 Kannada Output
+![Kannada](assets/kannada_output.png)
+
+### 🇮🇳 Marathi Output
+![Marathi](assets/marathi_output.png)
 
 ---
 
